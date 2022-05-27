@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MindsolAssignmentQ2/static/css/main.964fdded.css",
+    "main.js": "/MindsolAssignmentQ2/static/js/main.7b08f28a.js",
+    "index.html": "/MindsolAssignmentQ2/index.html",
+    "main.964fdded.css.map": "/MindsolAssignmentQ2/static/css/main.964fdded.css.map",
+    "main.7b08f28a.js.map": "/MindsolAssignmentQ2/static/js/main.7b08f28a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.7b08f28a.js"
+  ]
+}
